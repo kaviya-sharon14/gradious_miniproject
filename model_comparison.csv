@@ -1,0 +1,4 @@
+Model,CV F1 (train),Accuracy,Precision,Recall,F1 Score,ROC-AUC
+SVM (RBF),0.7431,0.7989,0.7089,0.8116,0.7568,0.858
+Logistic Regression,0.7304,0.7821,0.6923,0.7826,0.7347,0.8225
+Random Forest,0.7465,0.7877,0.7246,0.7246,0.7246,0.8417

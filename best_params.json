@@ -1,0 +1,5 @@
+{
+  "Logistic Regression":"{'C': 10}",
+  "Random Forest":"{'max_depth': 8, 'min_samples_leaf': 5, 'n_estimators': 400}",
+  "SVM (RBF)":"{'C': 10, 'gamma': 0.05}"
+}
